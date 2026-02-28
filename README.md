@@ -52,7 +52,7 @@ Información contextual integrada para facilitar la operación del sistema.
 ### Hoja de Detalles
 La lista de todas las celdas auditadas con su lógica e indentación original.
 <br>
-<img src="assets/Details.jpg" width="400" alt="Details">
+<img src="assets/Details.png" width="400" alt="Details">
 
 ### Bitácora técnica (Logs)
 Registro de actividad del programa, avisando si hubo problemas de acceso o reanudación por tiempo.
@@ -70,4 +70,5 @@ Registro de actividad del programa, avisando si hubo problemas de acceso o reanu
 ---
 
 **Desarrollado por [Josue Cavalheiro Schipper](https://github.com/JosueCSchipper)**
+
 📧 **Contacto:** [Josue.CavalheiroSchipper@gmail.com]

@@ -21,10 +21,14 @@ Este auditor genera información estratégica para el día a día:
 
 Para utilizar esta herramienta, seguí estos pasos:
 
-1.  **Copia de la plantilla:** Realizá una copia de la plantilla oficial y sigue las instrucciones de configuración:  
-    👉 [Hacer una copia del Template (Google Sheets)](https://docs.google.com/spreadsheets/d/1hUsSxZ1fknrzgNmQW-6tL8C3rhczVry0REE7jNg4NQg/copy)
-2.  **Autorización:** Al ejecutar el script por primera vez, Google te pedirá permisos para gestionar tus archivos de Drive y Sheets.
-3.  **Configuración:** Pegá el ID del archivo raíz que querés analizar en la celda **F2** del panel principal y presioná el botón de **"Auditar"**.
+1. **[Click aquí para copiar la Plantilla oficial]** (Se abrirá en una pestaña nueva).
+<p align="left">
+  <a href="https://docs.google.com/spreadsheets/d/1hUsSxZ1fknrzgNmQW-6tL8C3rhczVry0REE7jNg4NQg/copy" target="_blank">
+    <img src="https://img.shields.io/badge/COPIAR_TEMPLATE-Google_Sheets-green?style=for-the-badge&logo=googlesheets" alt="Copiar Template">
+  </a>
+</p>
+3.  **Autorización:** Al ejecutar el script por primera vez, Google te pedirá permisos para gestionar tus archivos de Drive y Sheets.
+4.  **Configuración:** Pegá el ID del archivo raíz que querés analizar en la celda **F2** del panel principal y presioná el botón de **"Auditar"**.
 
 ---
 
@@ -72,3 +76,4 @@ Registro de actividad del programa, avisando si hubo problemas de acceso o reanu
 **Desarrollado por [Josue Cavalheiro Schipper](https://github.com/JosueCSchipper)**
 
 📧 **Contacto:** [Josue.CavalheiroSchipper@gmail.com]
+

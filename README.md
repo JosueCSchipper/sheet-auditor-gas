@@ -21,7 +21,7 @@ Este auditor genera información estratégica para el día a día:
 
 Para utilizar esta herramienta, seguí estos pasos:
 
-1. **[Click aquí para copiar la Plantilla oficial]** (Se abrirá en una pestaña nueva).
+1. **[Click aquí para copiar la Plantilla oficial]**.
 <p align="left">
   <a href="https://docs.google.com/spreadsheets/d/1hUsSxZ1fknrzgNmQW-6tL8C3rhczVry0REE7jNg4NQg/copy" target="_blank">
     <img src="https://img.shields.io/badge/COPIAR_TEMPLATE-Google_Sheets-green?style=for-the-badge&logo=googlesheets" alt="Copiar Template">
@@ -76,4 +76,5 @@ Registro de actividad del programa, avisando si hubo problemas de acceso o reanu
 **Desarrollado por [Josue Cavalheiro Schipper](https://github.com/JosueCSchipper)**
 
 📧 **Contacto:** [Josue.CavalheiroSchipper@gmail.com]
+
 
